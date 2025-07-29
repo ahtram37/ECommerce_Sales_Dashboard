@@ -1,10 +1,10 @@
 # ECommerce_Sales_Dashboard
 
-**Project Summary**
+**📌 Project Summary**
 
 This project is a dynamic Power BI dashboard created to analyze and visualize e-commerce sales data for a fictional business. It brings together multiple sales KPIs and insights into a single view, enabling quick and effective decision making across product categories, states, payment modes, and time periods. The dashboard allows users to interact with filters for quarters and states to look into specific performance trends.
 
-**Project Objective**
+**🎯 Project Objective**
 
 The main objective of this project is to:
 
@@ -16,7 +16,7 @@ Analyze customer payment behavior and seasonal sales trends.
 
 Support data-driven decision-making through insightful visuals.
 
-**What This Project Demonstrates**
+**💡 What This Project Demonstrates**
 
 **Data Modeling & Transformation:** Cleaned and structured raw sales data to create meaningful relationships and insights.
 
