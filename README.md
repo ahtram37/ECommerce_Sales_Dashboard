@@ -15,12 +15,13 @@ Analyze customer payment behavior and seasonal sales trends.
 Support data-driven decision-making through insightful visuals.
 
 **What This Project Demonstrates**
-Data Modeling & Transformation: Cleaned and structured raw sales data to create meaningful relationships and insights.
 
-Visual Analytics Skills: Applied advanced Power BI visualizations (bar charts, pie charts, donut charts) for intuitive storytelling.
+**Data Modeling & Transformation:** Cleaned and structured raw sales data to create meaningful relationships and insights.
 
-KPI Design: Presented key metrics (Amount, Profit, Quantity) in an easily understandable format.
+**Visual Analytics Skills:** Applied advanced Power BI visualizations (bar charts, pie charts, donut charts) for intuitive storytelling.
 
-Interactivity: Enabled user-driven exploration through slicers for quarters and state-level analysis.
+**KPI Design:** Presented key metrics (Amount, Profit, Quantity) in an easily understandable format.
 
-Business Acumen: Focused on practical, real-world use cases relevant to e-commerce sales and strategy.
+**Interactivity:** Enabled user-driven exploration through slicers for quarters and state-level analysis.
+
+**Business Acumen:** Focused on practical, real-world use cases relevant to e-commerce sales and strategy.
